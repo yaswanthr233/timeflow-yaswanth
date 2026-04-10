@@ -181,5 +181,4 @@ function resumeTimer(){
         runTimer();
     }
     resumeTimerBtnEl.style.display = 'none';
-    timerPauseBtnEl.style.display = 'none';
 }
